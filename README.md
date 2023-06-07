@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Me llamo Angel Hurst</h1>
 <h3 align="center">soy un Full-Stack Apasionado</h3>
 
-- 💬 Pregúntame Sobre ... **html, css, javascript, django, nodejs y reactjs**
+- 💬 Pregúntame Sobre ... **html, css, javascript, nodejs, reactjs, python y django**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
